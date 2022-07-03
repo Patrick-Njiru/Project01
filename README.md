@@ -1,7 +1,10 @@
 
 Patrick Njiru
+
 Project01
+
 The project involves implementation of a website for a real-estate firm to serve online customers. 
+
 Program Setup Instructions:
 - First download or obtain the necessary resources for the project like images, font styles, colors and the desired appearance of the website.
 -Create a directory where you will store all your resources.
