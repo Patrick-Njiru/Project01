@@ -34,7 +34,9 @@ div.nav li {
 }
 .nav0 li>a:hover {color: #2549D3;}
 .nav h2 {font-style: italic;}
+
 /* Start of <Div class="2learn">*/
+
 div.learn.two {
     overflow: auto;
     width: 100%;
@@ -67,4 +69,39 @@ a.learn {
 .text h1 {
     color: #2549D3;
 }
-/* Start of third division properties */
+/* Start of division <div class="three search" properties */
+
+div.search {
+    overflow: auto;
+    width: 50%;
+    margin: 20px 25% 0;
+    background-color: white;
+    border-radius: 8px;
+}
+div.three {
+    float: left;
+    padding-right: 12%;
+    padding-left: 2%;
+}
+div.three .link {
+    float: right;
+    padding-left: 0;
+    padding-right: 2%;
+}
+a.search {
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px outset;
+    background-color:  #2549D3;
+    border-radius: 8px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+div.three h4 {color: #2549D3;}
+
+/* End of Division three. Start of <div class="four products" */
+
