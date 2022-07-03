@@ -1,0 +1,31 @@
+body {
+    background-color: #FAFAFA;
+    font-family: "Space Grotesk", "Oleo Script", serif;
+}
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+a.start {
+    float: right;
+    margin:20px 5% 1px 1px;
+    padding: 5px;
+    border: 1px outset;
+    background-color:  #2549D3;
+    border-radius: 8px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.nav0 {
+    width: 28%;
+    float: left;
+    margin:0 2%;
+}
+div.nav li {
+    list-style: none;
+    display: inline;
+    margin-left: 8%;
+    text-align: center;
+}
+.nav0 li>a:hover {color: #2549D3;}
+.nav h2 {font-style: italic;}
