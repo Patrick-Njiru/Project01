@@ -2,6 +2,11 @@ body {
     background-color: #FAFAFA;
     font-family: "Space Grotesk", "Oleo Script", serif;
 }
+div.nav {overflow: auto;
+    width: 100%;
+    height: 100%;
+    border-bottom: solid 0.1px lightgray;
+}
 .nav a {
     text-decoration: none;
     color: black;
@@ -24,8 +29,42 @@ a.start {
 div.nav li {
     list-style: none;
     display: inline;
-    margin-left: 8%;
+    margin-left: 7%;
     text-align: center;
 }
 .nav0 li>a:hover {color: #2549D3;}
 .nav h2 {font-style: italic;}
+/* Start of <Div class="2learn">*/
+div.learn.two {
+    overflow: auto;
+    width: 100%;
+    margin: 50px 2%;
+}
+.text{
+    width: 35%;
+   /*  text-align: center; */
+    float: left;
+}
+div.image1{
+    width: 55%;
+    float: right;
+    margin-right: 7%;
+    text-align: center;
+}
+.image01 {
+    width: 100%;
+    height: 100%;
+    padding-top: 0;
+}
+a.learn {
+    padding: 5px;
+    border: 1px outset;
+    background-color:  #2549D3;
+    border-radius: 8px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.text h1 {
+    color: #2549D3;
+}
+/* Start of third division properties */
