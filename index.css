@@ -29,7 +29,7 @@ a.start {
 div.nav li {
     list-style: none;
     display: inline;
-    margin-left: 7%;
+    margin-left: 2%;
     text-align: center;
 }
 .nav0 li>a:hover {color: #2549D3;}
@@ -217,3 +217,29 @@ div.client {
     border-radius: 5%;
 }
 .client p, .client h3, .client h4 {padding:0 8px;}
+
+/* End of division 7. Onto the final division */
+
+div.resources { 
+    background-color: #0F298B;
+    color: lightgray;
+    overflow: auto;
+    width: 100%;
+}
+div.other {
+    float: left;
+    width: 21%;
+    margin: 10px 2%;
+}
+.other ul {
+    list-style: none;
+    padding-bottom: 70px;
+}
+.other h3 {
+    padding-left: 40px;
+}
+h3.italic {
+    font-style: italic;
+    padding-left: 0;
+}
+.other li {padding-bottom: 10px;}
