@@ -1,4 +1,6 @@
 body {
+    width: 96%;
+    margin: 0 auto;
     background-color: #FAFAFA;
     font-family: "Space Grotesk", "Oleo Script", serif;
 }
