@@ -162,7 +162,7 @@ div.property {
     overflow: auto;
     width: 30%;
     background-color: white;
-    margin: 50px 1%;
+    margin: 20px 1%;
     float: left;
     border-radius: 0 35% 0 5%;
 }
@@ -186,14 +186,13 @@ a.more {
     height: 20px;
     text-align: center;
     display: block;
-    margin-top: 30px;
     padding: 5px;
     border: 1px outset;
     background-color:  #2549D3;
     border-radius: 8px;
     color: white;
     text-decoration: none;
-    margin-right: 5%;
+    margin: 0 5% 18%;
 }
 span.font-weight {
     font-weight: bold;
@@ -202,3 +201,19 @@ span.font-weight {
 span.color {
     font-weight: bold;
     color: #2549D3;}
+h2 {color: #2549D3;}
+
+/* End of div six. Div seven below */
+
+div.seven {
+    overflow: auto;
+    width: 100%;
+}
+div.client {
+    float: left;
+    width: 30%;
+    margin: 0 1% 20px;
+    background-color: white;
+    border-radius: 5%;
+}
+.client p, .client h3, .client h4 {padding:0 8px;}
