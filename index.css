@@ -4,14 +4,20 @@ body {
     background-color: #FAFAFA;
     font-family: "Space Grotesk", "Oleo Script", serif;
 }
-div.nav {overflow: auto;
+div.nav {
+    overflow: auto;
     width: 100%;
-    height: 100%;
-    border-bottom: solid 0.1px lightgray;
+    /* height: 100%; */
+    border-bottom: 0.1px solid lightgray;
 }
 .nav a {
     text-decoration: none;
     color: black;
+}
+.nav0 {
+    width: 28%;
+    float: left;
+    margin:1% 2%;
 }
 a.start {
     float: right;
@@ -23,31 +29,28 @@ a.start {
     color: whitesmoke;
     text-decoration: none;
 }
-.nav0 {
-    width: 28%;
-    float: left;
-    margin:0 2%;
-}
 div.nav li {
+    float: left;
     list-style: none;
     display: inline;
     margin-left: 2%;
-    text-align: center;
 }
 .nav0 li>a:hover {color: #2549D3;}
 .nav h2 {font-style: italic;}
 
-/* Start of <Div class="2=two learn">*/
+/* Start of <Div class="two learn"> */
 
 div.learn.two {
     overflow: auto;
     width: 100%;
-    margin: 50px 2%;
+    height: 600px;
+    margin: 100px 2%;
 }
 .text{
     width: 35%;
    /*  text-align: center; */
     float: left;
+    height: 100%;
 }
 div.image1{
     width: 55%;
@@ -111,7 +114,10 @@ div.four .products {
     overflow: auto;
     width: 100%; 
 }
-div.four h2 {color: #2549D3;}
+div.four h2 {
+    color: #2549D3;
+    margin-top: 30px;
+}
 div.center {text-align: center;}
 .find, .payments, .official {
     text-align: center;
@@ -203,7 +209,7 @@ span.font-weight {
 span.color {
     font-weight: bold;
     color: #2549D3;}
-h2 {color: #2549D3;}
+.six h2 {color: #2549D3;}
 
 /* End of div six. Div seven below */
 
