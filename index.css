@@ -35,7 +35,7 @@ div.nav li {
 .nav0 li>a:hover {color: #2549D3;}
 .nav h2 {font-style: italic;}
 
-/* Start of <Div class="2learn">*/
+/* Start of <Div class="2=two learn">*/
 
 div.learn.two {
     overflow: auto;
@@ -150,3 +150,55 @@ img.choose {
     font-weight: 600;
     margin-right: 14%;
 }
+
+/* End of Div five. To Div six */
+
+div.property {
+    overflow: auto;
+    width: 100%;
+}
+.featured {
+    text-align: center;
+    overflow: auto;
+    width: 30%;
+    background-color: white;
+    margin: 50px 1%;
+    float: left;
+    border-radius: 0 35% 0 5%;
+}
+.featured img { 
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+p.duplex {
+    float: right;
+    margin-right: 10%;
+}
+p.place {
+    float: left;
+    margin-left: 10%;
+}
+a.more {
+    float: right;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px outset;
+    background-color:  #2549D3;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5%;
+}
+span.font-weight {
+    font-weight: bold;
+    font-size: larger;
+}
+span.color {
+    font-weight: bold;
+    color: #2549D3;}
