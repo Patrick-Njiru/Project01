@@ -122,8 +122,31 @@ div.center {text-align: center;}
     padding-bottom: 20px;
 }
 div.four img {
-    display: block;
     margin: 50px auto 0;
     width: 50%;
-    text-align: center;
+}
+
+/* End of Division four. Onto Division five */
+
+div.choice {
+    overflow: auto;
+    width: 98%;
+    margin: 50px auto;
+}
+img.choose {
+    display: block;
+    float: left;
+    margin: 10px 50px 0 0 ;
+    width: 50%;
+}
+.list {
+   /*  display: block; */
+    float: right;
+    width: 35%;
+    margin: 10% auto;
+}
+.list ul {
+    float: left;
+    font-weight: 600;
+    margin-right: 14%;
 }
