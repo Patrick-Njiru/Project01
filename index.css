@@ -74,9 +74,9 @@ a.learn {
 div.search {
     overflow: auto;
     width: 50%;
-    margin: 20px 25% 0;
+    margin: 20px 25% 50px;
     background-color: white;
-    border-radius: 8px;
+    border-radius: 13px;
 }
 div.three {
     float: left;
@@ -105,3 +105,25 @@ div.three h4 {color: #2549D3;}
 
 /* End of Division three. Start of <div class="four products" */
 
+div.four .products {
+    overflow: auto;
+    width: 100%; 
+}
+div.four h2 {color: #2549D3;}
+div.center {text-align: center;}
+.find, .payments, .official {
+    text-align: center;
+    display: block;
+    width: 31%;
+    height: 550px;
+    margin: 1%;
+    float: left;
+    background-color: white;
+    padding-bottom: 20px;
+}
+div.four img {
+    display: block;
+    margin: 50px auto 0;
+    width: 50%;
+    text-align: center;
+}
