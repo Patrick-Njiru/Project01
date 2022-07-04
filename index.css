@@ -16,9 +16,10 @@ div.nav {
 div.links a { 
     display: inline-block;
     text-align: center;
-    padding:2% 2% 10px;
+    padding:2% 2% 10px:
     text-decoration: none;
     color: black;
+    text-decoration: none;
 }
 div.links a.start {
     display: block;
