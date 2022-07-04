@@ -253,4 +253,7 @@ h3.italic {
     font-style: italic;
     padding-left: 0;
 }
-.other li {padding-bottom: 10px;}
+.other li {
+    padding-bottom: 10px;
+    font-size: small;
+}
