@@ -33,6 +33,10 @@ div.links a.start {
     color: whitesmoke;
     text-decoration: none;
 }
+div.links a.start:hover {
+    background-color: red;
+    color: black;
+}
 .nav0 a:hover {color: #2549D3;}
 .nav h2 {
     float: left;
@@ -75,6 +79,10 @@ a.learn {
     color: whitesmoke;
     text-decoration: none;
 }
+a.learn:hover {
+    background-color: red;
+    color: black;
+}
 .text h1 {
     color: #2549D3;
 }
@@ -109,6 +117,10 @@ a.search {
     border-radius: 8px;
     color: whitesmoke;
     text-decoration: none;
+}
+a.search:hover {
+    background-color: red;
+    color: black;
 }
 div.three h4 {color: #2549D3;}
 
@@ -205,6 +217,10 @@ a.more {
     color: white;
     text-decoration: none;
     margin: 0 5% 10%;
+}
+a.more:hover {
+    background-color: red;
+    color: black;
 }
 span.font-weight {
     font-weight: bold;
