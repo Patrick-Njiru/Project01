@@ -1,8 +1,8 @@
-# Vallie's Estate
+# Vallie's Estate Webpage
 ##### By Patrick Njiru
 #
 ## Description
-##### A replica of Vallie's Estate website showcasing their exquisite products and giving clients the ability to choose property based on their preference of location, price and property type. It has been created using basic HTML and CSS with the current knowledge I have so far on the subjects. I faced challenges trying to create and align items on the navigation menus at the top of the page but was able to overcome it. I hope to learn and implement drop-down lists and better ways of organizing elements on the page other than through the float property in CSS.
+##### A replica of Vallie's Estate website page showcasing their exquisite properties and giving clients the ability to choose property based on their preference of location, price and property type. It has been created using basic HTML and CSS with the current knowledge I have so far on the subjects. I faced challenges trying to create and align items on the navigation menus at the top of the page but was able to overcome it. I hope to learn and implement drop-down lists and better ways of organizing elements on the page other than through the float property in CSS.
 
 ## Installation
 
