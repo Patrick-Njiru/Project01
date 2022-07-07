@@ -145,6 +145,9 @@ div.center {text-align: center;}
     background-color: white;
     padding-bottom: 20px;
 }
+.find:hover, .payments:hover, .official:hover {
+    border: 2px ridge lightgray;
+}
 div.four img {
     margin: 50px auto 0;
     width: 50%;
