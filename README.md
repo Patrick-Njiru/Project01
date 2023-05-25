@@ -1,14 +1,15 @@
 # Vallie's Estate
 
 ## Description
-A replica of Vallie's Estate website page showcasing their exquisite properties and giving clients the ability to choose property based on their preference of location, price and property type. It has been created using basic HTML and CSS with the current knowledge I have so far on the subjects. I faced challenges trying to create and align items on the navigation menus at the top of the page but was able to overcome it. I hope to learn and implement drop-down lists and better ways of organizing elements on the page other than through the float property in CSS.
+A webpage showcasing their exquisite properties and giving clients the ability to choose property based on their preference of location, price and property type.My very first project 
 
 <br><br>
 <img src="https://i.ibb.co/Kwy2hjM/Screenshot-from-2023-05-25-14-27-00.png" alt="Screenshot-from-2023-05-25-14-27-00" border="0">
-<img src="https://i.ibb.co/DDtzm6b/Screenshot-from-2023-05-25-14-27-10.png" alt="Screenshot-from-2023-05-25-14-27-10" border="0">
+<img src="https://i.ibb.co/cw8Q0nB/Screenshot-from-2023-05-25-14-27-10.png" alt="Screenshot-from-2023-05-25-14-27-10" border="0">
 <img src="https://i.ibb.co/F7MmzWq/Screenshot-from-2023-05-25-14-27-14.png" alt="Screenshot-from-2023-05-25-14-27-14" border="0">
 <img src="https://i.ibb.co/b6z5qPc/Screenshot-from-2023-05-25-14-27-19.png" alt="Screenshot-from-2023-05-25-14-27-19" border="0">
-<img src="https://i.ibb.co/GTKhRqJ/Screenshot-from-2023-05-25-14-27-23.png" alt="Screenshot-from-2023-05-25-14-27-23" border="0">
+<img src="https://i.ibb.co/Xs4wJZC/Screenshot-from-2023-05-25-14-27-23.png" alt="Screenshot-from-2023-05-25-14-27-23" border="0">
+
 
 
 ## Installation
